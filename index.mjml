@@ -1,0 +1,148 @@
+<mjml>
+    <mj-head>
+        <mj-title>Youtube Music</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+
+        <mj-attributes>
+            <mj-breakpoint width="600px" />
+            <mj-section padding="0" />
+            <mj-column padding="0" />
+            <mj-image padding="0" />
+            <mj-button border-radius="3px" background-color="#d32" color="white" text-transform="uppercase" font-size="18px" font-weight="500" text-decoration="none" />
+            <mj-text padding="0" color="#aaaaaa" line-height="1.5" font-family="Roboto" font-size="16px" />     
+            <mj-class name="h1" color="#fff" font-size="32px" font-weight="700" line-height="44px" />           
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-container background-color="#000000">
+        <!-- header -->
+        <!-- logo -->
+            <mj-section>
+                <mj-column>
+                    <mj-image
+                         src="img/logo.png"
+                         alt="Youtube Music"
+                         align="center" />
+                </mj-column>
+            </mj-section>
+        <!-- logo -->
+
+        <mj-section>
+            <mj-column>
+                <mj-text mj-class="h1" align="center">
+                    Find the music you’re
+                    <br/>
+                    looking for
+                </mj-text>
+                <mj-text align="center" padding-top="10px" font-size="20px">
+                    From official albums to curated playlists,
+                    <br/>
+                    the music you seek is all here.
+                </mj-text>
+                <mj-button padding-top="50px">
+                    search for songs
+                </mj-button>
+                <mj-image padding-top="25px" src="img/search-mobile.gif" alt="Find the music you're looking for." width="248px" />
+            </mj-column>
+        </mj-section>
+        <!-- header -->
+
+        <!-- body -->
+            <mj-section>
+                <mj-column width="400px" background-color="#131313">
+                    <mj-text mj-class="h1" font-size="20px" line-height="32px" align="left" padding="25px" padding-bottom="0">
+                        Easily search for music by song, album,<br/>
+                        playlist – or your way
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column width="400px" background-color="#131313">
+                    <mj-table padding-top="0">
+                        <tr>
+                            <td>
+                                <img src="img/headsets_grey.png" width="30px">
+                            </td>
+                            <td>
+                                <p style="color:#aaaaaa;font-size:16px;padding-left:13px;padding-top:30px">	
+                                    <span style="font-weight:700;">Mood and activity</span>. Search your current vibe, like “chill” or “workout,” and we’ll match you with the right songs.
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/library_grey.png" width="30px">
+                            </td>
+                            <td>
+                                <p style="color:#aaaaaa;font-size:16px;padding-left:13px;padding-top:50px">	
+                                    <span style="font-weight:700;">Lyrics and details</span>. Can’t remember the song title? No problem. Find it by lyrics or description, like “dance for me monkey song.”
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/google_assistant_icon_grey.png" width="30px">
+                            </td>
+                            <td>
+                                <p style="color:#aaaaaa;font-size:16px;padding-left:13px;padding-top:50px">	
+                                    <span style="font-weight:700;">Google Assistant</span>. Start a dance party on your mobile device or smart speaker, hands-free. “Hey Google, play dance music on YouTube Music.”
+                                </p>
+                            </td>
+                        </tr>
+                    </mj-table>
+                    <mj-button padding-top="20px">
+                    search for songs
+                    </mj-button>
+                    <mj-spacer height="30px" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column width="150px" padding-top="30px">
+                    <mj-image src="img/google-play.png" alt="Google Play Store" width="136px" padding-right="10px" />
+                </mj-column>
+                <mj-column width="150px"padding-top="30px">
+                    <mj-image src="img/app-store.png" alt="Apple App Store" width="136px" padding-left="10px" />
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column width="400px">
+                    <mj-divider padding-top="20px" border-width="1px" border-style="solid" border-color="#1a1a1a" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-top="20px">
+                <mj-column width="50px" padding-right="10px">
+                    <mj-image src="img/youtube.png" alt="Youtube" width="29px" />
+                </mj-column>
+                <mj-column width="50px" padding-right="10px">
+                    <mj-image src="img/instagram.png" alt="Instagram" width="20px" />
+                </mj-column>
+                <mj-column width="50px">
+                    <mj-image src="img/twitter.png" alt="Twitter" width="23px" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-top="30px">
+                <mj-column width="400px">
+                    <mj-text font-size="12px" align="center">
+                        You received this message because you are subscribed to YouTube Music Premium. If you do not want to receive emails from YouTube Premium or YouTube Music Premium in the future, please unsubscribe <a style="text-decoration:none;color:#16b" href="">here</a>.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="30px">
+                <mj-column width="400px">
+                    <mj-image src="img/footer-logo.png" alt="Youtube logo" width="102px" />
+                </mj-column>
+                <mj-column width="400px">
+                    <mj-text padding-top="15px" align="center" font-size="10px">
+                        © 2021 Google LLC d/b/a YouTube
+                        <br/>
+                        901 Cherry Ave
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        <!-- body -->
+        </mj-container>
+    </mj-body>
+</mjml>
