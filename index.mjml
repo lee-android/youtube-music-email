@@ -20,7 +20,7 @@
             <mj-section>
                 <mj-column>
                     <mj-image
-                         src="img/logo.png"
+                         src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/logo.png"
                          alt="Youtube Music"
                          align="center" />
                 </mj-column>
@@ -42,7 +42,7 @@
                 <mj-button padding-top="50px">
                     search for songs
                 </mj-button>
-                <mj-image padding-top="25px" src="img/search-mobile.gif" alt="Find the music you're looking for." width="248px" />
+                <mj-image padding-top="25px" src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/search-mobile.gif" alt="Find the music you're looking for." width="248px" />
             </mj-column>
         </mj-section>
         <!-- header -->
@@ -61,7 +61,7 @@
                     <mj-table padding-top="0">
                         <tr>
                             <td>
-                                <img src="img/headsets_grey.png" width="30px">
+                                <img src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/headsets_grey.png" width="30px">
                             </td>
                             <td>
                                 <p style="color:#aaaaaa;font-size:16px;padding-left:13px;padding-top:30px">	
@@ -71,7 +71,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <img src="img/library_grey.png" width="30px">
+                                <img src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/library_grey.png" width="30px">
                             </td>
                             <td>
                                 <p style="color:#aaaaaa;font-size:16px;padding-left:13px;padding-top:50px">	
@@ -81,7 +81,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <img src="img/google_assistant_icon_grey.png" width="30px">
+                                <img src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/google_assistant_icon_grey.png" width="30px">
                             </td>
                             <td>
                                 <p style="color:#aaaaaa;font-size:16px;padding-left:13px;padding-top:50px">	
@@ -99,10 +99,10 @@
 
             <mj-section>
                 <mj-column width="150px" padding-top="30px">
-                    <mj-image src="img/google-play.png" alt="Google Play Store" width="136px" padding-right="10px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/google-play.png" alt="Google Play Store" width="136px" padding-right="10px" />
                 </mj-column>
                 <mj-column width="150px"padding-top="30px">
-                    <mj-image src="img/app-store.png" alt="Apple App Store" width="136px" padding-left="10px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/app-store.png" alt="Apple App Store" width="136px" padding-left="10px" />
                 </mj-column>
             </mj-section>
             <mj-section>
@@ -113,13 +113,13 @@
 
             <mj-section padding-top="20px">
                 <mj-column width="50px" padding-right="10px">
-                    <mj-image src="img/youtube.png" alt="Youtube" width="29px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/youtube.png" alt="Youtube" width="29px" />
                 </mj-column>
                 <mj-column width="50px" padding-right="10px">
-                    <mj-image src="img/instagram.png" alt="Instagram" width="20px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/instagram.png" alt="Instagram" width="20px" />
                 </mj-column>
                 <mj-column width="50px">
-                    <mj-image src="img/twitter.png" alt="Twitter" width="23px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/twitter.png" alt="Twitter" width="23px" />
                 </mj-column>
             </mj-section>
 
@@ -132,7 +132,7 @@
             </mj-section>
             <mj-section padding-top="30px">
                 <mj-column width="400px">
-                    <mj-image src="img/footer-logo.png" alt="Youtube logo" width="102px" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/youtube-music-email/master/img/footer-logo.png" alt="Youtube logo" width="102px" />
                 </mj-column>
                 <mj-column width="400px">
                     <mj-text padding-top="15px" align="center" font-size="10px">
